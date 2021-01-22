@@ -15,7 +15,7 @@ function budgetCalculator(watch,phone,laptop){
     var timeKeeperPrice = watch * 50;
     var mobilePrice = phone * 100;
     var ComputerPrice = laptop * 500;
-    var totalCost = timeKeeperPrice + mobilePrice + ComputerPrice;
+    var totalCostPrice = timeKeeperPrice + mobilePrice + ComputerPrice;
     return totalCostPrice;
 }
 //  budgetCalculator function end here...
